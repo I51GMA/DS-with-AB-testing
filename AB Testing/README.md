@@ -38,7 +38,7 @@ A website is testing two different webpage designs to see which one results in h
 
 ### Process
 - The `exp` group is shown the new webpage design, while the `con` group sees the original design.
-- The script simulates user interactions and calculates the click-through rate for each group.
+- The script simulates the user interactions and calculates the click-through rate for each group.
 - Statistically analyzes the results to assess if the new design significantly improves user engagement.
 
 ## Conclusion
